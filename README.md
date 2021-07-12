@@ -12,7 +12,7 @@ Within the dist folder you will find a deployable for windows executable version
 Prerequistes
 
 In order to function you must complete the api_info.ini file in the same directory
-and add your cacert.pem file to the certifi folder
+and add your cacert.pem file to the certifi folder within the dist directory.
 
 api_info.ini
 
